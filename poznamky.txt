@@ -1,3 +1,4 @@
 Ucim se Git
 Druhy radek.
 Treti radek
+rozdelana myslenka
